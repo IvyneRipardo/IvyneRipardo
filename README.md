@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Olá! Eu sou a Ívyne Ripardo.<br>🎂19 anos <br>🎓Estudante de ADS - Uninter - 1º Semestre<br>📄 Curso em Introdução a Python - 60h<br><br>
+👋Olá! Eu sou a Ívyne Ripardo.<br>🎂20 anos <br>🎓Estudante de ADS - Uninter - 3º Semestre<br>
 
 
 ## 🌐 Socials:
