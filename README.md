@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Olá! Eu sou a Ívyne Ripardo.<br>🎂20 anos <br>🎓Estudante de ADS - Uninter - 3º Semestre<br>🎓Estudante de Técnico de Redes de Computadores - Senai - 2º Semestre<br>🎓Formada em Técnico Redes de Computadores - EEEP Monsenhor José Aloysio Pinto<br>
+👋Olá! Eu sou a Ívyne Ripardo.<br>🎂21 anos <br>🎓Estudante de ADS - Uninter - 4º Semestre<br>🎓Estudante de Técnico de Redes de Computadores - Senai - 2º Semestre<br>🎓Formada em Técnico Redes de Computadores - EEEP Monsenhor José Aloysio Pinto<br>
 
 
 ## 🌐 Socials:
